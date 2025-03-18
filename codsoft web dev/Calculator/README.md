@@ -9,10 +9,6 @@ A simple, efficient, and user-friendly basic calculator app built with HTML, CSS
 - Decimal point for precise calculations.
 - Responsive design for different screen sizes.
 
-## Demo
-
-Check out the live demo [here](https://raj-basic-calculator.netlify.app/).
-
 ## How to Use
 
 1. Clone this repository to your local machine.
@@ -42,6 +38,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-Created with ❤️ by [Raj](https://github.com/Rj1221)
+Created by bhanu prakash
 
 ---
