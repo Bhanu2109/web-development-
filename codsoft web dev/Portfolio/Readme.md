@@ -29,9 +29,6 @@ This portfolio website is designed to showcase the work and services of the webs
 
 - **Contact Form**: A contact section provides contact information and a form for users to send messages directly.
 
-## Usage
-
-To use this portfolio website, simply visit the live website hosted at [Raj's Portfolio Website](https://raj-portfolio-new.netlify.app/). Explore the portfolio, check the pricing plans, read customer testimonials, and use the contact form to get in touch.
 
 ## Technologies Used
 
@@ -66,13 +63,6 @@ Absolutely! The website allows you to utilize custom fonts, enhancing the overal
 ### How do I get in touch for inquiries?
 
 You can use the contact form provided in the "Contact" section of the website to send us a message. Alternatively, you can reach out to us via email or phone using the contact information provided.
-
-## Contact
-
-If you have any questions or need assistance, feel free to reach out:
-
-- Email: rj6207491172@gmail.com
-- Phone: +91 9117259523
 
 ## License
 
