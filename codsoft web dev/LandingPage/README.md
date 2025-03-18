@@ -40,10 +40,3 @@ If you have any questions or want to know more about our adoption process, pleas
 - Bootstrap 5.0.0-alpha1
 - JavaScript (jQuery)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-&copy; 2023 Pet Adoption. All rights reserved.
-
----
